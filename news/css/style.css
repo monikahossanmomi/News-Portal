@@ -1,0 +1,466 @@
+.navbar-brand{
+	height: 70px;
+	padding: 0;
+}
+.logo{
+	height: 50px;
+	margin:6px;
+}
+.btn{
+	height: 40px;
+	background-color:#AB0000;
+	margin-right: 10px; 
+}
+.btn:hover{
+	background-color:blanchedalmond;
+}
+.formr{
+    height:25px;
+    background:#747474;
+    border-style: none;
+    width:80px;
+}
+.navbar{
+	background: #2d3436;
+}
+#navbarSupportedContent ul li a{
+	color:#fff;
+	
+}
+#navbarSupportedContent ul li a:hover{
+	color: #AB0000;
+}
+.navbar h6{
+	color:#fff;
+	text-align: left; 
+}
+.img-1{
+margin-top:20px;
+}
+.latest .heading{
+	color:black;
+	font-size:40px;
+	font-weight:bolder;
+	font-family:serif;
+	line-height:30px;
+}
+.latest p{
+	margin-top:20px;
+	font-size:17px;
+}
+.latest ul li a{
+	color:black;
+	font-size:15px;
+	padding-left:15px;
+	
+}
+.latest ul li{
+	margin-top:20px;
+	border-left:none;
+	border-top:none;
+	border-right:none;
+	padding:0px
+}
+.latest{
+	height: 620px;
+	border-bottom: 1px solid #DFDFDF;
+	border-width: 80%;
+	margin-bottom: 60px;
+}
+.listN h4{
+	margin-top:-70px;
+}
+.listN ul{
+	width:550px;
+}
+
+/*latest ends*/
+
+/*========bangladesh=======*/
+
+#bangladesh h2{
+	margin-bottom:50px;
+	border-bottom:1px solid #DFDFDF;
+	width:205px;
+
+}
+#bangladesh .second{
+	margin-top: 40px;
+}
+.card{
+	border-top:none;
+	border-right:none;
+	border-bottom:none;
+	border-radius:0px;
+	height:380px;
+}
+#bangladesh{
+	height: 960px;
+	border-bottom:1px solid #DFDFDF;
+}
+#bangladesh a{
+	color: black;
+}
+
+.card-img-top{
+	width: 95%;
+}
+
+/*==========bangladesh ends========*/
+
+/*international*/
+
+#international h2{
+	margin-top:50px;
+	border-bottom:1px solid #DFDFDF;
+	width:244px;
+	margin-bottom:50px;
+}
+
+#international img{
+	height:200px;
+	width: 250px;
+}
+.inOne{
+float:left;
+	padding:0px;
+}
+.inTwo{
+	float:left;
+	padding:0px;
+	
+}
+#international h5{
+	color:black;
+	font-weight:bold;
+}
+#international p{
+	line-height:20px;
+	text-align:justify;
+	font-size:15px;
+	padding-right:25px;
+}
+#international{
+	height: 630px;
+	border-bottom:1px solid #DFDFDF;
+}
+.secTwo{
+	margin-top: 30px;
+}
+/*==========international ends========*/
+
+/*lifestyle*/
+
+#lifestyle h2{
+	margin-top:50px;
+	border-bottom:1px solid #DFDFDF;
+	width:144px;
+	margin-bottom:50px;
+}
+.item a{
+	color: black;
+}
+
+/*sport*/
+
+#sport h2{
+	margin-top:50px;
+	border-bottom:1px solid #DFDFDF;
+	width:114px;
+	margin-bottom:50px;
+}
+
+#sport p{
+	text-align:justify;
+	padding-right:46px;
+}
+#sport iframe{
+	height:300px;
+}
+#sport ul li{
+	height:100px;
+	padding:0px;
+	margin-bottom:0px;
+	
+	top:140px;
+	border-top:none;
+	border-right:none;
+	border-left:none;
+
+
+}
+#sport ul li a{
+	color:black;
+	margin-left:10px
+}
+#sport img{
+	height: 60px;
+	width: 100px;
+
+}
+#sport ul{
+	margin-left:-30px;
+	width:350px;
+}
+
+/*=========sport ends=========*/
+
+/*entertainment*/
+
+#entertainment h2{
+	margin-top:50px;
+	border-bottom:1px solid #DFDFDF;
+	width:250px;
+	margin-bottom:50px;
+}
+.entertainmentFour{
+margin-top:30px;
+}
+.entertainmentFive{
+margin-top:30px;
+}
+.entertainmentSix{
+margin-top:30px;
+}
+#entertainment img{
+		height:200px ;
+	padding-left:15px;
+}
+#entertainment h5 a{
+	color: black;
+	padding-left:15px;
+}
+
+/*entertainment ends*/
+
+/*video*/
+
+#video h2{
+	margin-top:50px;
+	border-bottom:1px solid #DFDFDF;
+	width:90px;
+	margin-bottom:50px;
+}
+.videoTwo{
+	float:right;
+}
+
+/*video ends*/
+
+/*footer*/
+
+#foot{
+	height: 300px;
+	background-color: #2D3436;
+	margin-top: 50px;
+}
+.icon ul li {
+list-style: none;
+display: inline-block;
+margin-top:30px;
+padding-left: 186px;
+margin-bottom:15px;
+
+}
+.icon ul li a{
+	color: #fff;
+	font-size: 30px;
+}
+.icon ul li a:hover{
+	color: #AB0000;
+}
+.icon{
+	border-bottom: 1px solid #fff; 
+}
+.section ul li{
+ list-style: none; 
+ display:inline-block;
+ margin-top:30px;
+ padding-left:108px;
+
+}
+.section ul li a{
+	color: #fff;
+	font-size:18px;
+}
+.section{
+	border-bottom: 1px solid #fff;
+	padding-bottom:15px;
+	
+}
+#foot p{
+	color:#fff;
+	text-align:center;
+	width:100%;
+	line-height:10px;
+	font-size:14px;
+	
+}
+.footerLine{
+	margin-top:30px;
+
+}
+
+
+/*===========end of homepage========*/
+.single .heading{
+	color:black;
+	font-size:50px;
+	font-weight:bolder;
+	font-family:serif;
+	line-height:50px;
+	margin-bottom:40px;
+	margin-top:15px;
+	margin-left:15px;
+}
+.single p{
+	margin-top:20px;
+	font-size:17px;
+	text-align:justify;
+	margin-bottom:-1px;
+}
+.single ul li a{
+	color:black;
+	font-size:15px;
+	padding-left:15px;
+	font-size:14px;
+	
+}
+.single ul{
+	width: 500px;
+	
+}
+.single ul li{
+	margin-top:20px;
+	border-left:none;
+	border-top:none;
+	border-right:none;
+	padding:0px;
+	padding-bottom:10px;
+}
+.single{
+	height: 850px;
+	border-bottom: 1px solid #DFDFDF;
+	border-width: 80%;
+	margin-bottom: 60px;
+}
+.listNop h4{
+	margin-top:-35px;
+	margin-left:15px;
+}
+.paragraph{
+	margin-top:-22px
+}
+.paraUp{
+	margin-left:17px;
+	font-size: 10px;
+}
+.drop .btn{
+	margin-top: -45px;
+}
+.drop h4{
+	margin-bottom:20px;
+}
+.drop{
+	margin-bottom:50px;
+	margin-left:120px;
+	border-bottom:1px solid gray;
+	height:130px;
+}
+
+
+
+
+
+
+/*end*/
+
+.moreNews h2{
+
+	border-bottom:1px solid #DFDFDF;
+	width:200px;
+	margin-bottom:50px;
+}
+.moreNews{
+	margin-bottom: 100px;
+}
+.card-body a{
+	color:black;
+}
+
+
+/*login page css*/
+
+.formHead{
+	height:80px;
+	background-color: #666666;
+}
+.formHead h2{
+	text-align:center;
+	color: #AB0000;
+	padding-top:30px;
+}
+.mainLine p{
+	text-align: center;
+	margin-top: 20px;
+	font-size:30px
+}
+.btn2{
+background-color: #E06555;
+border-style:none;
+height:50px;
+width:170px;
+border-radius:4px;
+color: #fff;
+}
+.btn3{
+background-color: #3B5998;
+border-style:none;
+height:50px;
+width:170px;
+border-radius:4px;
+color: #fff;
+}
+.or{
+	text-align:center;
+	font-size:25px;
+	margin-top:10px;
+}
+.form-group{
+	margin-top:-10px;
+}
+.form-group a{
+	padding-left:90px;
+	font-size:14px;
+}
+.form-check-label{
+	font-size:14px;
+}
+.btn1{
+	height:50px;
+	width:100%;
+	border-radius:4px;
+	border-style:none;
+	background-color:#6DB7EF;
+	margin-top:5px;
+	color: #fff;
+}
+.formPara{
+text-align:center;
+margin-top:20px;
+font-size:15px;
+}
+.formPara2{
+	text-align:center;
+	line-height:2px;
+	font-size:12px;
+	margin-top:10px;
+}
+.logo h3{
+	text-align:center;
+	color:#fff
+}
+.clr{
+	background-color: #F2F2F2;
+	height:650px;
+}
